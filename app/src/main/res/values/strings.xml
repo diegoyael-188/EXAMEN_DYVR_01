@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+
+    <string name="login_subtitulo">Conecta con tus amigos</string>
+    <string name="hint_usuario_correo">Usuario o correo</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="btn_iniciar_sesion">Iniciar sesión</string>
+    <string name="chk_guardar_sesion">Guardar sesión iniciada</string>
+    <string name="texto_o">o</string>
+    <string name="btn_crear_cuenta">Crear una cuenta</string>
+    <string name="link_olvidaste">¿Olvidaste tu contraseña?</string>
+    <string name="msg_olvidaste">Contacta al administrador para recuperar tu contraseña</string>
+    <string name="error_login">Usuario o contraseña incorrectos</string>
+
+    <string name="titulo_registro">Registro</string>
+    <string name="label_nombre">Nombre completo</string>
+    <string name="hint_nombre">Ej. Juan Pérez</string>
+    <string name="label_correo">Correo electrónico</string>
+    <string name="hint_correo">ejemplo@correo.com</string>
+    <string name="label_usuario">Usuario</string>
+    <string name="hint_minimo_5">Mínimo 5 caracteres</string>
+    <string name="hint_minimo_8">Mínimo 8 caracteres</string>
+    <string name="label_contrasena">Contraseña</string>
+    <string name="label_confirmar">Confirmar contraseña</string>
+    <string name="hint_confirmar">Repite tu contraseña</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="link_ya_tienes">¿Ya tienes una cuenta? <b>Inicia sesión</b></string>
+    <string name="error_nombre">El nombre debe tener mínimo 3 caracteres</string>
+    <string name="error_correo">Correo no válido</string>
+    <string name="error_contrasenas">Las contraseñas no coinciden</string>
+    <string name="msg_registro_ok">Cuenta creada, inicia sesión</string>
+
+    <string name="titulo_usuarios">Usuarios</string>
+    <string name="nav_chat">Chat</string>
+    <string name="buscar">Buscar</string>
+    <string name="menu">Menú</string>
+
+    <string name="en_linea">En línea</string>
+    <string name="hint_mensaje">Escribe un mensaje…</string>
+    <string name="adjuntar">Adjuntar</string>
+    <string name="enviar">Enviar</string>
+    <string name="vaciar_chat">Vaciar chat</string>
+
+    <string name="titulo_perfil">Perfil</string>
+    <string name="desc_foto">Foto de perfil</string>
+    <string name="perfil_nombre">Administrador</string>
+    <string name="perfil_usuario">admin</string>
+    <string name="perfil_correo">admin@chatapp.com</string>
+    <string name="btn_cerrar_sesion">Cerrar sesión</string>
+</resources>
