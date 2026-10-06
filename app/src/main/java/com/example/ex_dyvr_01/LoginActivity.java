@@ -19,7 +19,7 @@ public class LoginActivity extends AppCompatActivity {
     static final String REG_CORREO = "reg_correo";
     static final String REG_CLAVE = "reg_clave";
     private static final String USUARIO = "admin";
-    private static final String CLAVE = "admin";
+    private static final String CLAVE = "12345";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
